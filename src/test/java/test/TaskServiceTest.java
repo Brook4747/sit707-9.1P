@@ -24,8 +24,8 @@ public class TaskServiceTest {
         assertEquals(2, tasks.size());
     }
 
-    @Test
+   /* @Test
     public void testFailureIntentional() {
         fail("Intentional failure to test CI build failure");
-    }
+    } */
 }
